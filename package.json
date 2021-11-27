@@ -1,4 +1,8 @@
 {
+  "name": "allure-testrail-reporter",
+  "version": "1.0.0",
+  "description": "Package to post the allure results to the Test Rail",
+  "author": "Suresh Kumar",
   "dependencies": {
     "axios": "^0.24.0"
   }
